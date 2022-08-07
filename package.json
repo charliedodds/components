@@ -5,7 +5,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/charliedodds"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "dev": "vite",
     "build": "tsc -p tsconfig.prod.json && vite build",
