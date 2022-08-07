@@ -39,5 +39,3 @@ Small.args = {
   size: "small",
   label: "Button",
 };
-
-// change
